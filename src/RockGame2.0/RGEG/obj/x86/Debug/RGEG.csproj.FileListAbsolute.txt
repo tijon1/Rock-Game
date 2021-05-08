@@ -1,0 +1,10 @@
+C:\Users\nuxye\source\repos\RockGame2.0\RGEG\bin\x86\Debug\RGEG.exe.config
+C:\Users\nuxye\source\repos\RockGame2.0\RGEG\bin\x86\Debug\RGEG.exe
+C:\Users\nuxye\source\repos\RockGame2.0\RGEG\bin\x86\Debug\RGEG.pdb
+C:\Users\nuxye\source\repos\RockGame2.0\RGEG\bin\x86\Debug\IrrlichtLime.dll
+C:\Users\nuxye\source\repos\RockGame2.0\RGEG\bin\x86\Debug\IrrlichtLime.pdb
+C:\Users\nuxye\source\repos\RockGame2.0\RGEG\bin\x86\Debug\IrrlichtLime.xml
+C:\Users\nuxye\source\repos\RockGame2.0\RGEG\obj\x86\Debug\RGEG.csproj.CoreCompileInputs.cache
+C:\Users\nuxye\source\repos\RockGame2.0\RGEG\obj\x86\Debug\RGEG.csproj.CopyComplete
+C:\Users\nuxye\source\repos\RockGame2.0\RGEG\obj\x86\Debug\RGEG.exe
+C:\Users\nuxye\source\repos\RockGame2.0\RGEG\obj\x86\Debug\RGEG.pdb
