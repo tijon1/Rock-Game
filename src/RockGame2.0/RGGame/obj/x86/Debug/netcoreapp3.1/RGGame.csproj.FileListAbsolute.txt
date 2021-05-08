@@ -1,0 +1,17 @@
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\bin\x86\Debug\netcoreapp3.1\RGGame.exe
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\bin\x86\Debug\netcoreapp3.1\RGGame.deps.json
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\bin\x86\Debug\netcoreapp3.1\RGGame.runtimeconfig.json
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\bin\x86\Debug\netcoreapp3.1\RGGame.runtimeconfig.dev.json
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\bin\x86\Debug\netcoreapp3.1\RGGame.dll
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\bin\x86\Debug\netcoreapp3.1\RGGame.pdb
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\bin\x86\Debug\netcoreapp3.1\IrrlichtLime.dll
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\bin\x86\Debug\netcoreapp3.1\IrrlichtLime.pdb
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\bin\x86\Debug\netcoreapp3.1\IrrlichtLime.xml
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\obj\x86\Debug\netcoreapp3.1\RGGame.csprojAssemblyReference.cache
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\obj\x86\Debug\netcoreapp3.1\RGGame.AssemblyInfoInputs.cache
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\obj\x86\Debug\netcoreapp3.1\RGGame.AssemblyInfo.cs
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\obj\x86\Debug\netcoreapp3.1\RGGame.csproj.CoreCompileInputs.cache
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\obj\x86\Debug\netcoreapp3.1\RGGame.csproj.CopyComplete
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\obj\x86\Debug\netcoreapp3.1\RGGame.dll
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\obj\x86\Debug\netcoreapp3.1\RGGame.pdb
+C:\Users\nuxye\source\repos\RockGame2.0\RGGame\obj\x86\Debug\netcoreapp3.1\RGGame.genruntimeconfig.cache

@@ -5,6 +5,11 @@
       "taskLabel": "task-bruh",
       "appliesTo": "src/bruh.txt",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-src",
+      "appliesTo": "src/",
+      "type": "launch"
     }
   ]
 }
