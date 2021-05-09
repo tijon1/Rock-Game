@@ -15,11 +15,13 @@ namespace RGGame
             IrrlichtDevice device = IrrlichtDevice.CreateDevice(
             DriverType.OpenGL, new Dimension2Di(640, 480), 16, false, false, false);
 
-            device.SetWindowCaption("Rockplanets DEBUG MODE");
+            Global.device = device;
 
-            VideoDriver driver = device.VideoDriver;
-            SceneManager smgr = device.SceneManager;
-            GUIEnvironment gui = device.GUIEnvironment;
+            Global.device.SetWindowCaption("Rockplanets DEBUG MODE");
+
+            VideoDriver driver = Global.device.VideoDriver;
+            SceneManager smgr = Global.device.SceneManager;
+            GUIEnvironment gui = Global.device.GUIEnvironment;
 
             CameraSceneNode cam = smgr.AddCameraSceneNode();
             cam.Target = new Vector3Df(0);
@@ -28,15 +30,7 @@ namespace RGGame
             cam.AddAnimator(anim);
             anim.Drop();
 
-            Material material = new Material();
-            material.DiffuseColor = new Color(5, 8, 30);
-            material.Lighting = false;
-
-            SceneNode cube = smgr.AddCubeSceneNode(20f);
-            cube.SetMaterialFlag(MaterialFlag.Lighting, false);
-            cube.SetMaterial(0,material);
-
-
+            
 
             while (device.Run())
             {
