@@ -7,7 +7,7 @@ namespace RGGame.Data.Instances
         public string name;
         public List<Instance> children;
         public Instance parent;
-        public RenderObject renderObject;
+
         public Instance FindInstance(string name)
         {
             return children.Find(item => item.name == name);
@@ -28,18 +28,7 @@ namespace RGGame.Data.Instances
             parent.children.Add(this);
         }
 
-        public virtual void Draw()
-        {
-            if (renderObject != null)
-            {
-                renderObject.Render();
-            }
-        }
 
-        public virtual void Update()
-        {
-
-        }
 
     }
 }

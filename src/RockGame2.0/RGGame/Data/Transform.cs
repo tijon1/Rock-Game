@@ -8,22 +8,22 @@ namespace RGGame.Data
     public struct Transform
     {
         public Vector3Df position;
-        public Quaternion rotation;
+        public Vector3Df rotation;
         public Vector3Df scale;
 
         public Transform(Vector3Df pos)
         {
             position = pos;
-            rotation = Quaternion.Identity;
+            rotation = new Vector3Df(0);
             scale = new Vector3Df(1);
         }
-        public Transform(Vector3Df pos, Quaternion rot)
+        public Transform(Vector3Df pos, Vector3Df rot)
         {
             position = pos;
             rotation = rot;
             scale = new Vector3Df(1);
         }
-        public Transform(Vector3Df pos, Quaternion rot, Vector3Df sca)
+        public Transform(Vector3Df pos, Vector3Df rot, Vector3Df sca)
         {
             position = pos;
             rotation = rot;
