@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <Reference Include="IrrlichtLime">
-      <HintPath>..\..\..\..\Downloads\irrlichtlime-1.6\irrlichtlime-1.6\bin\Debug-x86\IrrlichtLime.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Downloads\irrlichtlime-1.6\irrlichtlime-1.6\bin\Debug-x86\IrrlichtLime.dll</HintPath>
     </Reference>
   </ItemGroup>
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nuxye\\Source\\Repos\\tijon1\\Rock-Game\\src\\RockGame2.0\\RGGame\\RGGame.csproj": {}
+    "C:\\Users\\nuxye\\source\\repos\\tijon1\\Rock-Game\\src\\RockGame2.0\\RGGame\\RGGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nuxye\\Source\\Repos\\tijon1\\Rock-Game\\src\\RockGame2.0\\RGGame\\RGGame.csproj": {
+    "C:\\Users\\nuxye\\source\\repos\\tijon1\\Rock-Game\\src\\RockGame2.0\\RGGame\\RGGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nuxye\\Source\\Repos\\tijon1\\Rock-Game\\src\\RockGame2.0\\RGGame\\RGGame.csproj",
+        "projectUniqueName": "C:\\Users\\nuxye\\source\\repos\\tijon1\\Rock-Game\\src\\RockGame2.0\\RGGame\\RGGame.csproj",
         "projectName": "RGGame",
-        "projectPath": "C:\\Users\\nuxye\\Source\\Repos\\tijon1\\Rock-Game\\src\\RockGame2.0\\RGGame\\RGGame.csproj",
+        "projectPath": "C:\\Users\\nuxye\\source\\repos\\tijon1\\Rock-Game\\src\\RockGame2.0\\RGGame\\RGGame.csproj",
         "packagesPath": "C:\\Users\\nuxye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nuxye\\Source\\Repos\\tijon1\\Rock-Game\\src\\RockGame2.0\\RGGame\\obj\\",
+        "outputPath": "C:\\Users\\nuxye\\source\\repos\\tijon1\\Rock-Game\\src\\RockGame2.0\\RGGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

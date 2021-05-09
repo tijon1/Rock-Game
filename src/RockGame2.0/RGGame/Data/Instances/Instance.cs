@@ -8,6 +8,12 @@ namespace RGGame.Data.Instances
         public List<Instance> children;
         public Instance parent;
         public RenderObject renderObject;
+
+        public void SetRenderObject(RenderObject ro)
+        {
+            renderObject = ro;
+            ro.linkedInstance = this;
+        }
         public Instance FindInstance(string name)
         {
             return children.Find(item => item.name == name);

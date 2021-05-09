@@ -3,6 +3,7 @@ using IrrlichtLime.Core;
 using IrrlichtLime.GUI;
 using IrrlichtLime.Scene;
 using IrrlichtLime.Video;
+using System.Reflection;
 
 namespace RGGame
 {
@@ -14,7 +15,7 @@ namespace RGGame
             IrrlichtDevice device = IrrlichtDevice.CreateDevice(
             DriverType.OpenGL, new Dimension2Di(640, 480), 16, false, false, false);
 
-            device.SetWindowCaption("Rockplanets BUILD 16 (DEBUG MODE)");
+            device.SetWindowCaption("Rockplanets DEBUG MODE");
 
             VideoDriver driver = device.VideoDriver;
             SceneManager smgr = device.SceneManager;
@@ -27,9 +28,13 @@ namespace RGGame
             cam.AddAnimator(anim);
             anim.Drop();
 
+            Material material = new Material();
+            material.DiffuseColor = new Color(5, 8, 30);
+            material.Lighting = false;
+
             SceneNode cube = smgr.AddCubeSceneNode(20f);
             cube.SetMaterialFlag(MaterialFlag.Lighting, false);
-
+            cube.SetMaterial(0,material);
 
 
 
